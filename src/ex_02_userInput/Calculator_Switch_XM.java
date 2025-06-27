@@ -2,7 +2,7 @@ package ex_02_userInput;
 
 import java.util.Scanner;
 
-public class Calculator_Switch {
+public class Calculator_Switch_XM {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter num1 ");

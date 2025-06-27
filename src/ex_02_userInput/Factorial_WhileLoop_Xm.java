@@ -1,6 +1,6 @@
 package ex_02_userInput;
 import java.util.Scanner;
-public class Factorial_WhileLoop {
+public class Factorial_WhileLoop_Xm {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
         System.out.println("Enter the required number : ");

@@ -2,7 +2,7 @@ package ex_02_userInput;
 
 import java.util.Scanner;
 
-public class Switch_Week {
+public class Switch_Week_XM {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number from 1 to 7 ");

@@ -15,5 +15,8 @@ public class String_ComparisionEquality {
         System.out.println(String1.equalsIgnoreCase(String2));
         System.out.println(String1.compareTo(String2));
         System.out.println(String1==String3);
+        System.out.println("Hello".length());
+        System.out.println(String1.equals(null));
+
     }
 }

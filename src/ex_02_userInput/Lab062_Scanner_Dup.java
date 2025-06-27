@@ -2,7 +2,7 @@ package ex_02_userInput;
 
 import java.util.Scanner;
 
-public class Lab062_Scanner {
+public class Lab062_Scanner_Dup {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
         System.out.println("Enter your age : ");
