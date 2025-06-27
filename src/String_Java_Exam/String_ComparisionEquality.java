@@ -8,7 +8,7 @@ public class String_ComparisionEquality {
         //String1: "Hello", String2: "hello", String3: "Hello"
         //Output:
         //equals(): false, equalsIgnoreCase(): true, compareTo(): -32
-        String String1="Hello";
+     /*   String String1="Hello";
         String String2="hello";
         String String3="Hello";
         System.out.println(String1.equals(String2));
@@ -16,7 +16,20 @@ public class String_ComparisionEquality {
         System.out.println(String1.compareTo(String2));
         System.out.println(String1==String3);
         System.out.println("Hello".length());
-        System.out.println(String1.equals(null));
+        System.out.println(String1.equals(null));*/
+        int i;
+        for ( i = 0; i < 5;i++ ) {
+
+               // System.out.print(i);
+        }
+        System.out.println(i);
+        int x = 0;
+        do {
+            System.out.print(x + " ");
+            x++;
+        } while (x < 0);
+
+
 
     }
 }
