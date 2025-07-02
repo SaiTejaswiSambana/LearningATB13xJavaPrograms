@@ -9,5 +9,7 @@ public class TypeCating {
 
         int as=(int) myfloat;
         System.out.println(as);
+
+        for (int i = 5; i > 0; i--) { System.out.print(i); }
     }
 }
